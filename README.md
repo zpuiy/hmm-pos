@@ -1,6 +1,6 @@
 # hmm-pos
 
-This pytorch NLP project explores HMMs on part-of- speech tagging using tWall Street Journal section of the Penn Treebank.
+This pytorch NLP project explores HMMs on part-of- speech tagging using the Wall Street Journal section of the Penn Treebank.
 
 ## Models
 - Greedy Decoding with HMM
